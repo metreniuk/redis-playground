@@ -4,7 +4,8 @@
   "type": "module",
   "private": true,
   "scripts": {
-    "test": "bun test"
+    "test": "bun test",
+    "autocomplete": "bun src/autocomplete/autocomplete"
   },
   "devDependencies": {
     "@types/bun": "latest"
